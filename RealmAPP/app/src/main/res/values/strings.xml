@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RealmAPP</string>
+    <string name="AddPerson">Añadir Persona</string>
+    <string name="Inicio">Inicio</string>
+    <string name="QueryPerson">Consultar</string>
+    <string name="DeletePerson">Borrar</string>
+    <string name="EditPerson">Editar</string>
+    <string name="DialogPerson">Añade Nueva Persona</string>
+    <string name="DialogEditPerson">Edita los datos</string>
+</resources>
